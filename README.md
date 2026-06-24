@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Prefix Sum
@@ -15,5 +16,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
