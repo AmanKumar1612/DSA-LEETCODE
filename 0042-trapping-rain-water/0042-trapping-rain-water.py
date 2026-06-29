@@ -1,17 +1,19 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        l=0
-        r=len(height)-1
-        lv=height[l]
-        rv=height[r]
+        l_max=[float('-inf')]
+        l=len(height)
+        for i in range(1,l):
+            l_max.append(max(l_max[i-1],height[i-1]))
+        r_max=[float('-inf')]*(l)
+        
+        for i in range(l-2,-1,-1):
+            r_max[i]=max(r_max[i+1],height[i+1])
         area=0
-        while l<r:
-            if lv<rv:
-                l+=1
-                lv=max(lv,height[l])
-                area+=lv-height[l]
-            else:
-                r-=1
-                rv=max(rv,height[r])
-                area+=rv-height[r]
+        for i in range(l):
+            m=min(l_max[i],r_max[i])
+            m=m-height[i]
+            if m<=0:
+                m=0
+            area+=m
         return area
+        
