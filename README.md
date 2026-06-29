@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -76,4 +78,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
