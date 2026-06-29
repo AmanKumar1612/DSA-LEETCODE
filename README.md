@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -90,4 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
