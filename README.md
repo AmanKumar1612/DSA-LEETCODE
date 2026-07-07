@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
