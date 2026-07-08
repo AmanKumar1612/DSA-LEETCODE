@@ -19,12 +19,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
