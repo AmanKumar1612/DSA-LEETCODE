@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,10 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,11 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -166,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
