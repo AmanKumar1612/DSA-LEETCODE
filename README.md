@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Stack
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
