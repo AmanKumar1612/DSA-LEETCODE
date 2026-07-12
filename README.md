@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
