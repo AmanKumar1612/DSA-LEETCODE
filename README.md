@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0071-simplify-path/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
