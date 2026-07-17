@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -94,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -174,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -245,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -256,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
