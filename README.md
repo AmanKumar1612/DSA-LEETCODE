@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1260-shift-2d-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
