@@ -7,11 +7,8 @@ class Solution:
         s2=''
         common=''
         for i,j in arr.items():
-            if j%2==0:
-                s1+=i*(j//2)
-                s2=i*(j//2)+s2
-            else:
-                common=i
-                s1+=i*(j//2)
-                s2=i*(j//2)+s2
+            if j%2!=0:
+                common=i 
+            s1+=i*(j//2)
+            s2=i*(j//2)+s2
         return s1+common+s2
