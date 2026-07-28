@@ -4,10 +4,11 @@ class Solution:
         s="".join(sorted(s))
         arr=dict(Counter(s))
         s1=''
+        s2=''
         common=''
         for i,j in arr.items():
             if j%2!=0:
                 common=i 
             s1+=i*(j//2)
-            
-        return s1+common+s1[::-1]
+            s2=i*(j//2)+s2
+        return s1+common+s2
