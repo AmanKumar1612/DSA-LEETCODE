@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -355,8 +357,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
