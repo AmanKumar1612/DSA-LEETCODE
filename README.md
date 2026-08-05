@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
