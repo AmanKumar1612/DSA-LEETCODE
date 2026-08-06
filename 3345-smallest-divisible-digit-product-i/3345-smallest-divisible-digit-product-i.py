@@ -8,6 +8,8 @@ class Solution:
                 p*=n%10
                 n=n//10
             return p
-        for i in range(n,(n*10)+1):
+        i=n
+        while True:
             if prod(i) % t==0:
                 return i
+            i=i+1
