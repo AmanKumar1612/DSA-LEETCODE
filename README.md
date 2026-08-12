@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
