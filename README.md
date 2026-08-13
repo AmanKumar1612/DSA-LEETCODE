@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0283-move-zeroes/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0283-move-zeroes/) | Easy |
@@ -450,4 +453,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
