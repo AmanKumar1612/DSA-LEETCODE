@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -478,4 +481,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0075-sort-colors/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
