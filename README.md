@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
