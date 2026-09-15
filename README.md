@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1872-stone-game-viii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
@@ -295,11 +296,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
