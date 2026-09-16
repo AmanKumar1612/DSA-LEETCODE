@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -502,12 +503,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
