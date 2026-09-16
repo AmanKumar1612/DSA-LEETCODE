@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -522,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
