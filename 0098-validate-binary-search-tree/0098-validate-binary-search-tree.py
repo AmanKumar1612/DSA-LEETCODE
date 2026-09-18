@@ -7,12 +7,13 @@
 class Solution:
     def isValidBST(self, root: TreeNode | None) -> bool:
         
-        def valid(root,mini=None,maxi=None):
+
+        def valid(root,mini,maxi):
             if not root:
                 return True
-            if mini and root.val <= mini.val :
+            if maxi and maxi.val <= root.val :
                 return False
-            if maxi and root.val >= maxi.val :
+            if mini and mini.val >= root.val :
                 return False
             return valid(root.left,mini,root) and valid(root.right,root,maxi)
-        return valid(root)
+        return valid(root,None,None)
