@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1927-sum-game/) | Medium |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -504,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -521,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -530,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
