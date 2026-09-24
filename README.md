@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -396,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
