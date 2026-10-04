@@ -1,20 +1,17 @@
 class Solution:
     def validPath(self, n: int, edges: list[list[int]], source: int, destination: int) -> bool:
-        def bfs(arr):
-            vis=[False for _ in range(n)]
-            queue=[source]
-            vis[source]=True
-            while queue:
-                x=queue.pop(0)
-                if x == destination:
-                    return True
-                for i in arr[x]:
-                    if not vis[i]:
-                        queue.append(i)
-                        vis[i]=True
+        def bfs(x,end,vis,arr):
+            if x==end:
+                return True
+            vis[x]=True
+            for i in arr[x]:
+                if not vis[i]:
+                    if bfs(i,end,vis,arr):
+                        return True
             return False
+        vis=[False]*n
         arr=[[] for _ in range(n)]
-        for i,j in edges:
+        for i , j in edges:
             arr[i].append(j)
             arr[j].append(i)
-        return bfs(arr)
+        return bfs(source,destination,vis,arr)
