@@ -18,7 +18,6 @@ class Solution:
                     if color[i] == -1:
                         queue.append(i)
                 flag=1-flag
-            print(color)
             return True
         n=len(graph)
         vis=[False for i in range(n)]
