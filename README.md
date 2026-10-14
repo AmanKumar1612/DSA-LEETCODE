@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
