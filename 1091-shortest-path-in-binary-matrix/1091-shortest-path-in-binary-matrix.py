@@ -36,7 +36,6 @@ class Solution:
             if j-1 >= 0 and i+1 < n and grid[i+1][j-1] == 0 and vis[i+1][j-1] > dist+1:
                 heapq.heappush(queue,[dist+1,(i+1,j-1)])
                 vis[i+1][j-1] = dist+1
-        print(vis)
         if vis[n-1][n-1] == float('inf'):
             return -1
         return vis[n-1][n-1]
