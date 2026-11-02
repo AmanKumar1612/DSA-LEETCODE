@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0310-minimum-height-trees/) | Medium |
 | [0733-flood-fill](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0310-minimum-height-trees/) | Medium |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -476,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0310-minimum-height-trees/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
@@ -677,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
