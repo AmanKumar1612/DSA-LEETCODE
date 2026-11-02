@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0071-simplify-path/) | Medium |
+| [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
@@ -670,4 +673,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
