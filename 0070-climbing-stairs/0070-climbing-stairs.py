@@ -1,6 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        l=[1,1]
-        for i in range(1,n):
-            l.append(l[i]+l[i-1])
-        return l[-1]
+        def find(n,arr):
+        
+            if n in arr:
+                return arr[n]
+            arr[n] = find(n-1,arr) + find(n-2,arr)
+            return arr[n]
+        arr={ 1:1 , 2:2 }
+        find(n,arr)
+        return arr[n]
