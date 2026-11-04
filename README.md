@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
