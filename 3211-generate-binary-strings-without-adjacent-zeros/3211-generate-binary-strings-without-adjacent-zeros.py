@@ -1,15 +1,19 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-        l=[]
-        m=2**n
-        for i in range(m):
-            x=f"{i:0{n}b}"
+        ans=[]
+        def check(no,flag,arr):
+            if no == n:
+                ans.append(''.join(arr))
+                return
+            arr[no] = '1'
             
-            flag=0
-            for i in range(n-1):
-                if x[i] == '0' and x[i] == x[i+1]:
-                    flag=1
-                    break
-            if flag==0:
-                l.append(x)
-        return l
+            check(no+1,True,arr)
+            if flag:
+                arr[no]='0'
+                check(no+1,False,arr)
+                arr[no]='1'
+            
+            
+        arr=['0' for _ in range(n)]
+        check(0,True,arr)
+        return ans
