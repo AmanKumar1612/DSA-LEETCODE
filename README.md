@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0071-simplify-path](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0071-simplify-path/) | Medium |
 | [0127-word-ladder](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0242-valid-anagram/) | Easy |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -708,4 +711,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
