@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
