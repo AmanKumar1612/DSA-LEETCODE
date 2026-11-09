@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
