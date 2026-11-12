@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
@@ -441,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0310-minimum-height-trees/) | Medium |
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
@@ -495,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0886-possible-bipartition](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0886-possible-bipartition/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0938-range-sum-of-bst/) | Easy |
