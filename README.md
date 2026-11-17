@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0733-flood-fill](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
