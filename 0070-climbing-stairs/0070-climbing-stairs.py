@@ -1,11 +1,9 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        def find(n,arr):
-        
-            if n in arr:
-                return arr[n]
-            arr[n] = find(n-1,arr) + find(n-2,arr)
-            return arr[n]
-        arr={ 1:1 , 2:2 }
-        find(n,arr)
-        return arr[n]
+        dp={1:1,2:2}
+        def check(i):
+            if i in dp:
+                return dp[i]
+            dp[i]=check(i-1)+check(i-2)
+            return dp[i]
+        return check(n)
