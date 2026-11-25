@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0740-delete-and-earn/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -762,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -772,4 +776,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
