@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
+| [1046-last-stone-weight](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
