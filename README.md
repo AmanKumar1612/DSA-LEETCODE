@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0283-move-zeroes](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
@@ -759,10 +761,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0518-coin-change-ii/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AmanKumar1612/DSA-LEETCODE/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
